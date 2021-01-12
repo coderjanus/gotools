@@ -16,3 +16,5 @@ vendor/
 
 .vscode/
 pkg/mail/asyncmail.go
+
+rotatelogger/
